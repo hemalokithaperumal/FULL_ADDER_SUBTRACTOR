@@ -41,6 +41,8 @@ Borrow out = A'Bin + A'B + BBin
 ![adder](<4add truth.png>)
 ## full subtractor:
 ![sub](<4sub trut.png>)
+
+
 **Procedure**
 1)Create a New Project:
 
