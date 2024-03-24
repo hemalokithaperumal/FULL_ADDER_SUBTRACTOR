@@ -44,6 +44,8 @@ Borrow out = A'Bin + A'B + BBin
 
 
 **Procedure**
+
+
 1)Create a New Project:
 
 *Open Quartus and create a new project by selecting "File" > "New Project Wizard."
